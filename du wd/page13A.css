@@ -1,0 +1,125 @@
+.main{
+    height: 700px;
+    width: 1200px;
+    margin: 40;
+    border: 2px solidn rgb(156, 155, 155);
+    padding: 13;
+}
+.logo{
+    top: 358;
+    padding: 8;
+}
+.header{
+    background-color: rgb(154, 153, 153);
+    padding-right: 20;
+    padding-top: 10;
+    font-size: 17;
+    height: 17%;
+}
+.para1{
+    color: rgb(97, 225, 234);
+}
+.line{
+    background-color: rgb(22, 111, 22);
+    height: 5;
+}
+.header1{
+    border: 2px solid green;
+    margin-top: 5;
+    height: 17%;
+}
+.logo1{
+    height: 100;
+    padding-top: 9;
+    padding-left: 9;
+    padding-bottom: 9;
+}
+.para2{
+    float: right;
+    width: 70%;
+}
+.button{
+    background-color: rgb(182, 244, 253);
+    position: absolute;
+    left: 421;
+    top: 273;
+    height: 35;
+    width: 115;
+    border-radius: 80px;
+}
+.para3{
+    float: left;
+    width: 61%;
+}
+.para4{
+    float: left;
+    width: 60%;
+}
+.img1{
+    height: 100;
+    width: 115;
+    position: absolute;
+    top: 366;
+}
+.news{
+    position: absolute;
+    top: 333;
+}
+.date{
+    position: absolute;
+    top: 365;
+    left: 930;
+    width: 90;
+}
+.para5{
+    position: absolute;
+    top: 390;
+    left: 930;
+    width: 350;
+}
+.img2{
+    height: 100;
+    width: 115;
+    position: absolute;
+    top: 500;
+}
+.date1{
+    position: absolute;
+    top: 500;
+    left: 930;
+    width: 90;
+}
+.para6{
+    position: absolute;
+    top: 525;
+    left: 930;
+    width: 350;
+}
+.img3{
+    height: 100;
+    width: 115;
+    position: absolute;
+    top: 635;
+}
+.date2{
+    position: absolute;
+    top: 635;
+    left: 930;
+    width: 90;
+}
+.para7{
+    position: absolute;
+    top: 660;
+    left: 930;
+    width: 350;
+}
+.list{
+    float: left;
+}
+.para8{
+    float: left;
+    width: 50%;
+    position: absolute;
+    left: 105;
+    top: 600;
+}

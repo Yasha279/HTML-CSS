@@ -1,0 +1,76 @@
+div{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    left: 45%;
+    text-align: center;
+    animation-name: demo;
+    background-color: rgb(108, 38, 112);
+    animation-duration: 5s;
+    animation-direction: alternate;
+    /* animation-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1); */
+    animation-iteration-count: infinite;
+    animation-delay: 5s;
+}
+
+p{
+    font-size: medium;
+    position: absolute;
+    top: 20%;
+    left: 10%;
+}
+
+@keyframes demo {
+    0%{
+        background-color: rgb(108, 38, 112);
+        top: 0%;
+    }
+    12.5%{
+            background-color: rgb(155, 101, 198);
+            top: 5%;
+            left: 50%;
+            border-radius: 6%;
+    }
+    25%{
+        background-color: rgb(184, 168, 234);
+        top: 10%;
+        left: 55%;
+        border-radius: 12%;
+    }
+    35.5%{
+        background-color: rgb(237, 99, 173);
+        top: 15%;
+        left: 50%;
+        border-radius: 18%;
+    }
+    50%{
+        background-color: rgb(238, 148, 187);
+        top: 20%;
+        left: 45%;
+        border-radius: 24%;
+    }
+    65.5%{
+        background-color: rgb(205, 166, 192);
+        top: 15%;
+        left: 40%;
+        border-radius: 30%;
+    }
+    75%{
+        background-color: rgb(170, 158, 233);
+        top: 10%;
+        left: 35%;
+        border-radius: 38%;
+    }
+    85.5%{
+        background-color: rgb(143, 194, 239);
+        top: 5%;
+        left: 40%;
+        border-radius: 45%;
+    }
+    100%{
+        background-color: rgb(73, 165, 246);
+        top: 0%;
+        left: 45%;
+        border-radius: 50%;
+    }
+}

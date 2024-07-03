@@ -1,0 +1,103 @@
+.main{
+    width: 100%;
+    height: 800;
+}
+
+.img{
+    height: 5%;
+    width: 5%;
+}
+
+.menu{
+    height: 100;
+    float: right;
+}
+
+.content{
+    width: 100%;
+    height: 75%;
+}
+
+.header{
+    height: 150px;
+    width: 100%;
+}
+
+.per_img{
+    width: 100%;
+    height: 600;
+}
+
+.footer{
+    height: 150px;
+    width: 100%;
+    margin-top: 20;
+}
+
+#pro4{
+    border-color: red;
+    height:150px;
+    width: 20%;
+    float: right;
+    border-style: solid;
+    margin-right: 50;
+    color: rgb(43, 43, 223);
+    text-align: center;
+}
+
+#pro3{
+    border-color: red;
+    height:150px;
+    width: 20%;
+    float: right;
+    border-style: solid;
+    margin-right: 50;
+    color: rgb(43, 43, 223);
+    text-align: center;
+}
+
+
+#pro2{
+    border-color: red;
+    height:150px;
+    width: 20%;
+    float: right;
+    border-style: solid;
+    margin-right: 50;
+    color: rgb(43, 43, 223);
+    text-align: center;
+}
+
+
+#pro1{
+    border-color: red;
+    height:150px;
+    width: 20%;
+    /* float: right;     */
+    border-style: solid;
+    margin-right: 50;
+    margin-left: 50;
+    color: rgb(43, 43, 223);
+    text-align: center;
+}
+
+
+.para1{
+    position: absolute;
+    top: 250;
+    right: 50;
+    font-size: 30;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.para2{
+    position: absolute;
+    top: 310;
+    right: 90;
+}
+
+.para3{
+    position: absolute;
+    top: 330;
+    right: 90;
+}

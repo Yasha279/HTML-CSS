@@ -1,0 +1,36 @@
+.face{
+    height: 300px;
+    width: 300px;
+    background-color: yellow;
+    border-radius: 50%;
+}
+
+.eye1{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    background-color: rgb(93, 9, 9);
+    position: absolute;
+    top: 10%;
+    left: 14%;
+}
+
+.eye2{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    background-color: rgb(93, 9, 9);
+    position: absolute;
+    top: 10%;
+    left: 4%;
+}
+
+.smile{
+    height: 30px;
+    width: 150px;
+    background-color: rgb(93, 9, 9);
+    position: absolute;
+    top: 30%;
+    left: 6%;
+    
+}

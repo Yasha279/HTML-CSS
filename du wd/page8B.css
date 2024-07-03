@@ -1,0 +1,38 @@
+.main{
+    width: 50%;
+    height: 800;
+}
+
+#img{
+    width: 100%;
+    height: 400;
+}
+
+#logo{
+    height: 6%;
+    width: 9%;
+    position: absolute;
+    top: 14;
+    right: 1215;
+}
+
+.menu{
+    position: absolute;
+    top: 14;
+    right: 910;
+    float: right;
+}
+
+.enter_text{
+    background-color: white;
+    border: none;
+    border-radius: 100px;
+    padding: 0.25rem 1rem;
+    font-weight: 700;
+    margin-top: 0.5rem;
+    height: 1.5rem;
+    width: fit-content;
+    position: absolute;
+    top: 14;
+    right: 800;
+}

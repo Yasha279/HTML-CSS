@@ -1,0 +1,105 @@
+.main{
+    height: 650px;
+    width: 1100px;
+    margin-left: 70px;
+}
+.logo{
+    height: 55;
+    padding: 0;
+}
+.header{
+    height: 60;
+    width: 100%;
+    background-color: black;
+}
+.h1{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+    font-size: larger;
+    float: right;
+    position: absolute;
+    top: 8;
+    left: 179;
+}
+.app_logo{
+    position: absolute;
+    top: 8;
+    left: 960;
+    padding: 20;
+    opacity: 0.5;
+}
+.button{
+    float: right;
+    position: absolute;
+    top: 20;
+    left: 760;
+    height: 35;
+    width: 145;
+    text-align: center;
+    border-radius: 80px;
+    background-color: skyblue;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.menu1{
+    float: right;
+    position: absolute;
+    top: 20;
+    color: white;
+    left: 670;
+    font-size: small;
+    opacity: 0.8;
+}
+.menu2{
+    float: right;
+    position: absolute;
+    top: 20;
+    color: white;
+    left: 550;
+    font-size: small;
+    opacity: 0.8;
+}
+.content{
+    height: 590;
+    background-color: gray;
+}
+.concert{
+    height: 175px;
+    width: 880px;
+    margin-top: 15;
+    margin-left: 100;
+}
+.sub_content{
+    height: 360;
+    width: 880px;
+    margin-top: 25;
+    margin-left: 100;
+}
+.card{
+    height: 340px;
+    width: 195px;
+    float: left;
+}
+.img1{
+    height: 170px; 
+    width: 100%;
+}
+.card_text{
+    float: left;
+    height: 170px; 
+    width: 195; 
+    background-color: white;
+}
+h1{
+    width: 100%;
+    font-size: xx-large;
+    position: relative;
+    transform: translateX(50%);
+}
+button{
+    height: 30;
+    width: 100;
+    position: relative;
+    transform: translateX(50%);
+}

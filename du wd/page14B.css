@@ -1,0 +1,14 @@
+.background{
+    height: 600px;
+    width: 60%;
+    background-color: aquamarine;
+    /* margin-left: 18%;     */
+    background-image: linear-gradient(to bottom right,rgb(187, 234, 252),rgb(250, 226, 230),rgb(242, 232, 187));
+}
+
+.main1{
+    height: 50px;
+    width: 50%;
+    color: aqua;
+}
+

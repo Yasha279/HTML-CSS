@@ -1,0 +1,31 @@
+.first{
+    background-color: skyblue;
+    height: 500;
+    width: 800;
+    padding-top: 10;
+}
+
+#entry{
+    background-color: black;
+    color: white;
+    padding: 3;
+    margin: 9;
+    width: 450;
+}
+
+.second{
+    background-color: purple;
+    padding: 3;
+    color: white;
+    margin-left: 5;
+    margin-right: 5;
+}
+
+.cont{
+    background-color: rgb(239, 167, 32);
+    padding: 4;
+    margin-left: 5;
+    margin-right: 5;
+    margin-bottom: 5;
+    height: 400;
+}
